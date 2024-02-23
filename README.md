@@ -39,4 +39,4 @@ The Responsive Landing Page developed by TechSpark serves as a testament to our 
 If you're seeking a professional and experienced team to develop a responsive landing page for your project or business, look no further than TechSpark. Contact us today to discuss your requirements and objectives, and let us help you bring your vision to life.
 
 ## DEMO Link
-[Click here to view the demo](https://TechSparkTeam.github.io/LandingPage3/)
+[Click here to view the demo](https://TechSparkTeam.github.io/LandingPage2/)
